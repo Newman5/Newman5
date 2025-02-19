@@ -16,7 +16,7 @@ Cardano RealFi Alliance (CRFC)
 Big Questions Institute (BQI)  
 U-Lab 1x  
 CS50x  
-Cardano 4 Climate
+Cardano 4 Climate..
 SingularityNET's Deep Funding  
 Holistic Systems Cooperative (HSC)  
 Sociocracy3.0  
@@ -28,12 +28,12 @@ Goals setting and lifestyle design
 
 ## Areas of Focus
 Gimbalabs Asteria App project  
-ODIN Study Group - Networkiness.  Just made a presentation on [/Now]  (https://nownownow.com/) pages ... which this is an example.  
+ODIN Study Group - Networkiness.  Just made a presentation on [/Now](https://nownownow.com/) pages ... which this is an example.  
 Project Catalyst Contributions  
 
 ## Movies, TV, Books and Entertainment
 Mad Men on ... Amazon / Paramount?  
-UNC College Basketball ramping up.  Women are a bit more interesting  at the moment
+College Basketball ramping up.  I general watch the ACC with Carolina teams being my favorite. Women are a bit more interesting at the moment
 
 ## Shiny Things
 https://indieaction.club - A time tracking focus helper app by Florian Pop  
